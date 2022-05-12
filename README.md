@@ -1,8 +1,6 @@
+[TryHackMe | What Is a Typical Cyber Security Salary? Launch Your Career Today](https://tryhackme.com/resources/blog/cyber-security-salary-career-options)
 # Careers in Cyber
 ```Learn about the different careers in cyber security.```
-
-[TryHackMe | What Is a Typical Cyber Security Salary? Launch Your Career Today](https://tryhackme.com/resources/blog/cyber-security-salary-career-options)
-
 ## Security Analyst
 *Responsible for maintaining the security of an organisation's data*
 
